@@ -1,0 +1,14 @@
+{
+  "name": "kone-sdk-react-native",
+  "version": "1.0.0",
+  "description": "Kone AI Special Offers SDK for React Native",
+  "main": "src/KoneSpecialOffers.tsx",
+  "types": "src/KoneSpecialOffers.tsx",
+  "keywords": ["kone", "ai", "sdk", "react-native", "special-offers"],
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.70.0"
+  },
+  "repository": { "type": "git", "url": "https://github.com/kone-vc/kone-sdk" },
+  "license": "MIT"
+}
