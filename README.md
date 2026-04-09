@@ -1,6 +1,6 @@
-# Kone AI SDK — Special Offers Tab
+# Kone AD SDK — SDK for apps monetization
 
-Drop-in **"Special Offers"** tab for any app. Adds a free personal AI assistant powered by `go.kone.vc/mcp/chat`. Chat-first UI, quick-question chips, API key authentication.
+Drop-in **"Special Offers"** tab for any app. Adds a free personal AI assistant powered by `kone.vc` (AD-layer for AI tools). Chat-first UI, quick-question chips, API key authentication.
 
 ---
 
@@ -210,12 +210,11 @@ User opens "Special Offers" tab
   → Message sent to: POST https://go.kone.vc/mcp/chat
       { url, prompt, api_key, response_id? }
   → AI responds, response_id saved for conversation continuity
-  → Footer: "More AI agents ↗ kone.vc/apps.html"
 ```
 
 ---
 
 ## Getting an API key
 
-Contact kone.vc to get your publisher API key:  
-→ **https://kone.vc/apps.html**
+Register kone.vc to get your publisher API key:  
+→ **https://acc.kone.vc/**
